@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2019-07-01T19:59:06.275525+01:00"
+entries:
+  stackedit:
+  - apiVersion: v1
+    appVersion: v5.14.1
+    created: "2019-07-02T11:59:26.679862+01:00"
+    description: In-browser Markdown editor
+    digest: 9b89cc0f439be1f79d201627d161881ec4008997c9ab23ff4d9d182089eafbdf
+    name: stackedit
+    urls:
+    - https://benweet.github.io/stackedit-charts/stackedit-5.14.1.tgz
+    version: 5.14.1
+generated: "2019-07-02T11:59:26.678433+01:00"
