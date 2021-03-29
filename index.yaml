@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   stackedit:
   - apiVersion: v1
+    appVersion: v5.14.9
+    created: "2021-03-29T18:58:27.104369649Z"
+    description: In-browser Markdown editor
+    digest: 9770b1d969bfe27766f6877ae02c61d0423e01278f8b39c82641b646e634d4de
+    name: stackedit
+    urls:
+    - https://benweet.github.io/stackedit-charts/stackedit-5.14.9.tgz
+    version: 5.14.9
+  - apiVersion: v1
     appVersion: v5.14.8
-    created: "2021-03-29T18:14:05.907636007Z"
+    created: "2021-03-29T18:58:27.104120955Z"
     description: In-browser Markdown editor
     digest: ecfe4accd2da690ca4ef7c890b8c2fd9dcaeeba10c9be1f7398eb2cec8e09c17
     name: stackedit
@@ -12,7 +21,7 @@ entries:
     version: 5.14.8
   - apiVersion: v1
     appVersion: v5.14.5
-    created: "2021-03-29T18:14:05.907398245Z"
+    created: "2021-03-29T18:58:27.103863503Z"
     description: In-browser Markdown editor
     digest: fe43860cb8a43a874fc223175c5d8d12c388223ccf5a18de62f346acc091bf98
     name: stackedit
@@ -21,11 +30,11 @@ entries:
     version: 5.14.5
   - apiVersion: v1
     appVersion: v5.14.1
-    created: "2021-03-29T18:14:05.90710242Z"
+    created: "2021-03-29T18:58:27.103577136Z"
     description: In-browser Markdown editor
     digest: 9b89cc0f439be1f79d201627d161881ec4008997c9ab23ff4d9d182089eafbdf
     name: stackedit
     urls:
     - https://benweet.github.io/stackedit-charts/stackedit-5.14.1.tgz
     version: 5.14.1
-generated: "2021-03-29T18:14:05.906728387Z"
+generated: "2021-03-29T18:58:27.103212012Z"
